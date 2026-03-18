@@ -1,6 +1,17 @@
 {
   "civil_service": [
     {
+      "title": "Forestry & Wildlife Technician IV",
+      "job_number": "OHHI-26001",
+      "division": "DLNR",
+      "location": "Maui",
+      "yearly_salary": 46800.0,
+      "posted": "Tue, 17 Mar 2026",
+      "closing": "Continuous",
+      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/5184996",
+      "duties": "Independently Performs A Wide Variety Of Complex, Specialized Technical Functions In Support Of Forestry, Wildlife And Other Natural Resources Research, Development, Management And Maintenance Projects; And Performs Other Related Duties As As Assigned."
+    },
+    {
       "title": "Boating And Ocean Recreation Harbor Agent II",
       "job_number": "26-0119",
       "division": "DLNR",
@@ -131,17 +142,6 @@
       "closing": "Continuous",
       "link": "https://www.governmentjobs.com/careers/hawaii/jobs/4916396",
       "duties": "Duties Are Performed In Support Of The Board Of Land And Natural Resources' Intent To Meet The Approved Social And Economic Demands Of Both The Public And Private Sectors Of The State Of Hawaii For Conservation, Development And Utilization Of The Land Resources Of The State And Of Other Natural Resources Based On The Land.&nbsp; Level Ii&nbsp; Serves In An Advanced Trainee Capacity, Receiving Formal And On-the-job Training; Assists In The Preparation Of Routine Transactions, In Making Inspections Of Lands And In Enforcement Of Terms, Conditions, Statutes, Rules And Regulations Pertaining To The Administration And Management Of State And Public Lands; And Performs Other Duties As Required. Level Iii&nbsp; Independently Performs &nbsp;selected Assignments In Transaction Preparation Of Land Acquisitions And Dispositions, And Routine Land Inspection And Enforcement Activities; And Performs Other Duties As Required."
-    },
-    {
-      "title": "Forestry & Wildlife Technician IV",
-      "job_number": "OHHI-26001",
-      "division": "DLNR",
-      "location": "Maui",
-      "yearly_salary": 46800.0,
-      "posted": "Tue, 10 Feb 2026",
-      "closing": "Continuous",
-      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/5184996",
-      "duties": "Independently Performs A Wide Variety Of Complex, Specialized Technical Functions In Support Of Forestry, Wildlife And Other Natural Resources Research, Development, Management And Maintenance Projects; And Performs Other Related Duties As As Assigned."
     },
     {
       "title": "Forestry & Wildlife Technician III And IV",
@@ -1006,7 +1006,25 @@
       "closing": "04/09/2026",
       "link": "https://opportunities.conservationcompass.org/opportunity/nrer-field-crew-leader-id-226161-rcuh-qtay3kd",
       "duties": "Supervises And Assigns Work To Pacific Cooperative Studies Unit (pcsu) Natural Resources/ecosystem Restoration (nr/er) Personnel Involved In Building And Maintaining Fence Lines, Controlling Alien Plant Invasions, Restoring Native Vegetation, Vertebrate Pest Management, Monitoring The Native Ecosystem And Controlling Feral Animals. Oversees Field Technicians, Temporary Staff, Interns, And Volunteers In Carrying Out Resource Management Efforts. Develops Personnel By Instruction For Increased Proficiency In Abilities, Skills, And Knowledge In Relation To Job Duties/responsibilities And Pre-determined Standards. Duties Include, But Are Not Limited To, Project Management, Leadership Of Work, And Managing Safety Of Personnel. Provides Assistance With Training Field Crew In Appropriate Work Methods And Procedures. Manages Schedules And Produces Work Plans For All Field Activities Under The Guidance Of The Hawai\u2018i Natural Resources Management Specialist. Ensures Staff Compliance With Rcuh/pcsu Standard Operating Procedures (sops) For Field Work, And Crew Safety/safe Work Practice. Initiates Appropriate Disciplinary Measures (with Concurrence Of Hawai\u2018i Natural Resources Management Specialist) For Non-compliance When Necessary. Collaborates With Hawai\u2018i Natural Resources Management Specialist On A Regular Basis In Developing Natural Resource Goals And Project Objectives, And Assigning Fieldwork Responsibilities To Field Technicians, Temporary Staff, Interns, And Volunteers. Leads Fence Building, Inspections, And Maintenance Programs. Performs And Delegates Responsibilities To Field Technicians For Fence Maintenance And Repair. Leads Feral Animal Removal Projects. Responsible For The Use, Basic Maintenance, And Inventory Of Vehicles, Tools, Equipment, And Supplies, And Ensures Proper And Safe Use By Field Crew. Operates 4-wheel Drive (4wd) Trucks, All-terrain Vehicles, And Such Equipment And Tools As Chainsaws, Drills, Weed-eaters, Global Positioning Systems (gps), Handheld Radios, Cameras, Etc. Assists With Collection Of Various Data In The Field And Entry Of Data Into Computers, Preparation Of Simple Maps, And Other Basic Record Keeping. Performs Simple Maintenance On Tools And Vehicles. Must Adhere To Equipment Use, Pesticide Use, And Invasive Species Prevention Protocols. Upon Approval, Loads, Unloads, Aims, And Fires Air Guns From A Variety Of Body Positions In Authorized Project-related Research Or Wildlife Control Programs. Performs These Functions In A Safe Manner In Varying Environments And Weather Conditions. Disassembles, Cleans, Inspects, And Reassembles Air Guns. Maintains Air Guns And Related Equipment In A Proper, Functional, And Safe Manner. Travels And Works In And Around Helicopters. Works Extended, Irregular Hours."
+    },
+    {
+      "title": "Hcsu Laboratory Research Associate",
+      "id": "226171",
+      "location": "Hawai\u02bbi Island",
+      "yearly_salary": null,
+      "closing": "03/31/2026",
+      "link": "https://opportunities.conservationcompass.org/opportunity/hcsu-laboratory-research-associate-id-226171-rcuh-krqqov3",
+      "duties": "Assists Project Staff In Investigating The Ecology, Impacts, And Control Of Invasive Species, And Conservation Genetics Of Native Species, In The Pacific Basin. Duties Include, But Are Not Limited To, Coordinating Sample Collections, Preparing Next-generation Libraries, Performing Pcr And Qpcr And Dna Extractions, Developing Pcr, Rpa And/or Loop-mediated Isothermal Amplification (lamp) And/or Lamp + Crispr Assays. Conducts Work As Part Of Collaborative Projects With Usgs Pierc And Communicates Regularly And Effectively With Project Staff To Determine Priorities, Protocols, And Scheduling. Performs All Operations According To Accepted Safety Standards And Established Protocols, And Contributes To Creating And Preserving A Positive Work Environment While Serving As A Valued Member Of The Research Team. Coordinates Sample Collections, Obtains And Maintains Field Survey And Laboratory Data, Follows Decontamination Protocols, And Ensures Proper Data Collection Protocols Are Followed. Assists With Maintenance Of Field And Lab Equipment/gear. Utilizes Complex Equipment In The Lab (e.g., Autoclave, Centrifuges, Micropipettes, Pcr/qpcr Machines, Etc.). Regularly Enters Data Into Spreadsheets, Performs Data Quality Control, Management And Archiving. Submits Regular Progress Reports On Field And Lab Work, And Works With Project Staff On Creating Standard Operating Procedures (sops), Performing Basic Analyses And Summarizing Data, And Writing Methods And Results For Technical Reports Or Journal Publications. Performs Other Duties As Assigned."
+    },
+    {
+      "title": "Hcsu Postdoctoral Research Analyst (bioinformatics/biocontrol Genomic Tools)",
+      "id": "226172",
+      "location": "Hawai\u02bbi Island",
+      "yearly_salary": null,
+      "closing": "03/31/2026",
+      "link": "https://opportunities.conservationcompass.org/opportunity/hcsu-postdoctoral-research-analyst-bioinformaticsbiocontrol-genomic-tools-id-226172-rcuh-aremh39",
+      "duties": "Contributes To Genomic-based Research Efforts To Advance Biocontrol Tools For Landscape-scale Suppression Or Eradication Of Invasive Species, And Analyzes Population Genomic Datasets Applicable To Conservation Of Native Species In The Pacific Basin. Applies Bioinformatics Techniques To Model Population Demographics, Characterize Gene Expression Datasets (rna-seq), Perform Gene Annotations, And Evaluate Genomic Features. Assists In The Development Of Datasets To Inform Biocontrol Efforts That Might Be Enacted In The Future, Including Synthetic Biology Approaches For Invasive Species Or Disease Control. Coordinates With State, Federal, And/or International Agencies And Researchers To Collect Additional Specimens, And Processes Tissue Samples In The Lab (dissection, Dna Extraction, Next-generation Library Preparation, Sequencing, And Analysis). Carefully Documents Analysis, Computational Pipelines, And Performs Data Management And Database Archiving. Reviews Relevant Literature And Works With The Research Team Leads And Collaborators. Authors Or Co-authors Scientific Manuscripts Related To The Development Of Landscape-scale Biocontrol Tools For Invasive Species, Conservation Genomics Of Native Species, And Related Topics. Assists With Preparing All Research Products For The United States Geological Survey (usgs) Policy And Quality Reviews, Such As Fundamental Science Practices (fsp). Edits And Formats Scientific Manuscripts. Produces Project Summaries And Data Visualizations To Routinely Communicate Progress To Research Team Members, And Prepares Reports And Project Summaries For Internal Or General Distribution At Scientific Meetings, Workshops, And Presentations, Including Outreach Products For Different Audiences."
     }
   ],
-  "generated_at_utc": "2026-03-17T20:04:59.117287+00:00"
+  "generated_at_utc": "2026-03-18T19:58:21.316141+00:00"
 }

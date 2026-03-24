@@ -1,6 +1,17 @@
 {
   "civil_service": [
     {
+      "title": "Forestry & Wildlife Technician IV",
+      "job_number": "26-0130",
+      "division": "DLNR",
+      "location": "Kamuela/kohala/waikoloa - Hawaii Island",
+      "yearly_salary": 46800.0,
+      "posted": "Mon, 23 Mar 2026",
+      "closing": "Continuous",
+      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/5274494",
+      "duties": "Independently Performs A Wide Variety Of Complex, Specialized Technical Functions In Support Of Forestry, Wildlife And Other Natural Resources Research, Development, Management And Maintenance Projects; And Performs Other Related Duties As As Assigned."
+    },
+    {
       "title": "Natural Resources Management Specialist III And IV",
       "job_number": "26-0123",
       "division": "DLNR",
@@ -21,17 +32,6 @@
       "closing": "Continuous",
       "link": "https://www.governmentjobs.com/careers/hawaii/jobs/5269791",
       "duties": "The Objective Of The State's Natural Area Reserves Management Program Is To Preserve The State's Unique Natural Ecosystems And Geologic Formations. Natural Area Reserves, Forest Reserves, And Wildlife Sanctuaries Encompass Diverse Ecosystems Including Forests, Wetlands, Offshore Islands, Bogs, Grasslands, Marine Coastal Areas, Lava Flows, Coastal Dunes And Snowy Alpine Terrain. They Support Many Highly Specialized Plant And Animal Species Unique To Hawaii. The Natural Resources Management Specialists (nrms) Are Responsible For The Development And Implementation Of Operational Management Plans For Natural Area Reserves And Other Natural Areas That Involve A Variety Of Activities To Prevent Disruption Of Pristine Areas Or The Degradation Of Sites, And To Recover Critically Imperiled Areas And Native Ecosystems And Species. Such Activities Include Inventory Of Species And Ecosystem Conditions; Protection Of Areas; Development And Implementation Of Innovative Management Prescriptions; Monitoring Ecosystem And Species Trends; Implementing Adaptive Management As Needed; And Designing And Implementing Educational And Scientific Projects, Programs, And Studies. Nrms Ii&nbsp; Positions Are Advanced Trainees Through Which They Advance As Part Of The Progression To Full Performance As An Independent Worker. Assignments Characteristically Involve Assisting In Natural Area Management Projects For Which Higher-level Specialist Is Responsible. Assignments Are Screened To Eliminate Highly Complex Or Unusual Problems. Complex Assignments Are Given And Conducted Under Close Guidance To Progressively Develop The Position's Incumbent To Work At The Next Higher Level."
-    },
-    {
-      "title": "Forestry & Wildlife Technician IV",
-      "job_number": "OHHI-26001",
-      "division": "DLNR",
-      "location": "Maui",
-      "yearly_salary": 46800.0,
-      "posted": "Tue, 17 Mar 2026",
-      "closing": "Continuous",
-      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/5184996",
-      "duties": "Independently Performs A Wide Variety Of Complex, Specialized Technical Functions In Support Of Forestry, Wildlife And Other Natural Resources Research, Development, Management And Maintenance Projects; And Performs Other Related Duties As As Assigned."
     },
     {
       "title": "Boating And Ocean Recreation Harbor Agent II",
@@ -1007,17 +1007,8 @@
       "id": "226128",
       "location": "Hawai\u02bbi Island",
       "yearly_salary": 42300.0,
-      "closing": "03/24/2026",
+      "closing": "04/07/2026",
       "link": "https://opportunities.conservationcompass.org/opportunity/mkfrp-field-assistant-id-226128-rcuh-ks3smiv",
-      "duties": "Participates In A Variety Of Activities Associated The Mauna Kea Forest Restoration Project (mkfrp) And The Division Of Forestry And Wildlife (dofaw) Primarily On Mauna Kea Including Puu Mali And Kaohe Restoration Sites, Kaohe Game Management Area, And Mauna Kea Forest Reserve. Monitors And Controls Non-native Predators, Alien Plants, And Feral Ungulates. Conducts Restoration Of Dryland Forest Including Seed Collection And Processing, Propagation, Outplanting, And Monitoring Of Native Species At Restoration Areas. Collects And Analyzes Technical Field Data, And Assists With Report Writing. Assists With Coordinating Volunteers And Interns, And Works With Other Field Technicians To Conduct Resource Management Work. Adapts To Changing Plans, Makes Wise Decisions As New Circumstances Arise, And Communicates Observations And Ideas To Supervisors To Develop Solutions To On-going And New Challenges To Accomplishing Project Goals."
-    },
-    {
-      "title": "Mkfrp Field Assistant",
-      "id": "226128",
-      "location": "Hawai\u02bbi Island",
-      "yearly_salary": 42300.0,
-      "closing": "03/24/2026",
-      "link": "https://opportunities.conservationcompass.org/opportunity/mkfrp-field-assistant-id-226128-rcuh-nky4tja",
       "duties": "Participates In A Variety Of Activities Associated The Mauna Kea Forest Restoration Project (mkfrp) And The Division Of Forestry And Wildlife (dofaw) Primarily On Mauna Kea Including Puu Mali And Kaohe Restoration Sites, Kaohe Game Management Area, And Mauna Kea Forest Reserve. Monitors And Controls Non-native Predators, Alien Plants, And Feral Ungulates. Conducts Restoration Of Dryland Forest Including Seed Collection And Processing, Propagation, Outplanting, And Monitoring Of Native Species At Restoration Areas. Collects And Analyzes Technical Field Data, And Assists With Report Writing. Assists With Coordinating Volunteers And Interns, And Works With Other Field Technicians To Conduct Resource Management Work. Adapts To Changing Plans, Makes Wise Decisions As New Circumstances Arise, And Communicates Observations And Ideas To Supervisors To Develop Solutions To On-going And New Challenges To Accomplishing Project Goals."
     },
     {
@@ -1048,5 +1039,5 @@
       "duties": "Contributes To Genomic-based Research Efforts To Advance Biocontrol Tools For Landscape-scale Suppression Or Eradication Of Invasive Species, And Analyzes Population Genomic Datasets Applicable To Conservation Of Native Species In The Pacific Basin. Applies Bioinformatics Techniques To Model Population Demographics, Characterize Gene Expression Datasets (rna-seq), Perform Gene Annotations, And Evaluate Genomic Features. Assists In The Development Of Datasets To Inform Biocontrol Efforts That Might Be Enacted In The Future, Including Synthetic Biology Approaches For Invasive Species Or Disease Control. Coordinates With State, Federal, And/or International Agencies And Researchers To Collect Additional Specimens, And Processes Tissue Samples In The Lab (dissection, Dna Extraction, Next-generation Library Preparation, Sequencing, And Analysis). Carefully Documents Analysis, Computational Pipelines, And Performs Data Management And Database Archiving. Reviews Relevant Literature And Works With The Research Team Leads And Collaborators. Authors Or Co-authors Scientific Manuscripts Related To The Development Of Landscape-scale Biocontrol Tools For Invasive Species, Conservation Genomics Of Native Species, And Related Topics. Assists With Preparing All Research Products For The United States Geological Survey (usgs) Policy And Quality Reviews, Such As Fundamental Science Practices (fsp). Edits And Formats Scientific Manuscripts. Produces Project Summaries And Data Visualizations To Routinely Communicate Progress To Research Team Members, And Prepares Reports And Project Summaries For Internal Or General Distribution At Scientific Meetings, Workshops, And Presentations, Including Outreach Products For Different Audiences."
     }
   ],
-  "generated_at_utc": "2026-03-23T18:49:52.888192+00:00"
+  "generated_at_utc": "2026-03-24T19:00:00.157222+00:00"
 }

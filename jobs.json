@@ -1,6 +1,39 @@
 {
   "civil_service": [
     {
+      "title": "Park Caretaker I",
+      "job_number": "OHHI-26057",
+      "division": "DLNR",
+      "location": "Kamuela/ Kohala/ Waikoloa, Hawaii Island (ohhi)",
+      "yearly_salary": null,
+      "posted": "Fri, 10 Jul 2026",
+      "closing": "Continuous",
+      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/5405107",
+      "duties": "Cares For, Maintains And Beautifies An Assigned Park Area, Playground Or Gymnasium; May Operate A Power Mower; And Performs Other Related Duties As Assigned."
+    },
+    {
+      "title": "Human Resources Specialist IV (recruitment, Examination And Classification)",
+      "job_number": "26-0156",
+      "division": "DLNR",
+      "location": "Downtown",
+      "yearly_salary": 66444.0,
+      "posted": "Fri, 10 Jul 2026",
+      "closing": "Continuous",
+      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/5299773",
+      "duties": "The Position Is Located In The Personnel Office, Department Of Land And Natural Resources And Is Primarily Responsible For Independently Performing Professional Recruitment, Examination And Placement, And Position Classification. The Duties And Responsibilities Of The Positions Include Evaluating Recruitment Requests And Recommending Recruitment Options And Strategies; Recommending Placement Of Disabled Employees, Ensuring Compliance With Employment Laws, Regulations And Policies; Conducting Evaluation To Determine The Appropriate Classification Of Positions In A Variety Of Occupations And At All Levels Of Work In The Department; And Providing Management Advisory Services. In Order To Effectively Perform The Duties And Responsibilities Of This Position, Applicants Must Possess Knowledge Of Recruitment Trends And Job Market Conditions, Recruitment And Selection Methods And Techniques, Options And Strategies; Position Classification Methods And Techniques; And The Ability To Evaluate Education And Work Experience To Determine Applicant Qualifications And Suitability For Employment; Analyze Jobs And Develop Selection Criteria; Conduct Job Analyses To Determine Significant Duties, Required Knowledge And Skills, Etc.; And To Provide Advice On Staffing And Recruitment Matters, And Classification Practices And Concepts To Managers And Employees."
+    },
+    {
+      "title": "General Professional IV (harbor, Inspections & Audits)",
+      "job_number": "25-0220",
+      "division": "DLNR",
+      "location": "Maalaea, Maui",
+      "yearly_salary": 66324.0,
+      "posted": "Fri, 10 Jul 2026",
+      "closing": "Continuous",
+      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/4955550",
+      "duties": "The General Professional Iv&nbsp; Independently Performs&nbsp; Complex Professional Work &nbsp; Which Involves Considerable Research And Analysis Of A Variety Of Issues, Identification Of Various Options And Recommendation Of The Most Viable Solution. This Position Is Located In The Maui District Branch,&nbsp; Division Of Boating And Ocean Recreation, Department Of Land And Natural Resources. The Position Is Responsible For S Erving As The District's&nbsp; Facility Security Officer (fso) In Developing And&nbsp; Implementing The Facility Security Plans (fsp) For The Maui District . Duties And Responsibilities Of This Position Include Controlling All Security Measures At&nbsp; Facilities ; Conducting The Facility Security Assessment (fsa), Regular Security Inspections, And Annual Audits Of Facilities; Training Personnel Performing Facility Security Duties; Assessing And Reporting Occurrences That Threaten The Security Of Facilities; Maintaining Records And Preparing Reports As Required By The Title 33 Of The Code Of Federal Regulations (cfr); Coordinating With Security Services; Ensuring That Security Equipment Are Properly&nbsp; Operated , Tested, Calibrated, And&nbsp; Maintained ;&nbsp; Coordinating &nbsp;with Law Enforcement&nbsp; Personnel &nbsp;and Other Emergency Responders In The&nbsp; Event &nbsp;of Security Incidents; And Ensuring That All Facility&nbsp; Personnel &nbsp; Are &nbsp;briefed Of Changes In&nbsp; Security &nbsp;conditions At Facilities, Among Other Things; And Performing Other Related Duties As Assigned."
+    },
+    {
       "title": "Land Agent II And III",
       "job_number": "25-0121",
       "division": "DLNR",
@@ -12,17 +45,6 @@
       "duties": "Duties Are Performed In Support Of The Board Of Land And Natural Resources' Intent To Meet The Approved Social And Economic Demands Of Both The Public And Private Sectors Of The State Of Hawaii For Conservation, Development And Utilization Of The Land Resources Of The State And Of Other Natural Resources Based On The Land.&nbsp; Level Ii&nbsp; Serves In An Advanced Trainee Capacity, Receiving Formal And On-the-job Training; Assists In The Preparation Of Routine Transactions, In Making Inspections Of Lands And In Enforcement Of Terms, Conditions, Statutes, Rules And Regulations Pertaining To The Administration And Management Of State And Public Lands; And Performs Other Duties As Required. Level Iii&nbsp; Independently Performs &nbsp;selected Assignments In Transaction Preparation Of Land Acquisitions And Dispositions, And Routine Land Inspection And Enforcement Activities; And Performs Other Duties As Required."
     },
     {
-      "title": "Human Resources Specialist IV (recruitment, Examination And Classification)",
-      "job_number": "26-0156",
-      "division": "DLNR",
-      "location": "Downtown",
-      "yearly_salary": 68160.0,
-      "posted": "Wed, 01 Jul 2026",
-      "closing": "Continuous",
-      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/5299773",
-      "duties": "The Position Is Located In The Personnel Office, Department Of Land And Natural Resources And Is Primarily Responsible For Independently Performing Professional Recruitment, Examination And Placement, And Position Classification. The Duties And Responsibilities Of The Positions Include Evaluating Recruitment Requests And Recommending Recruitment Options And Strategies; Recommending Placement Of Disabled Employees, Ensuring Compliance With Employment Laws, Regulations And Policies; Conducting Evaluation To Determine The Appropriate Classification Of Positions In A Variety Of Occupations And At All Levels Of Work In The Department; And Providing Management Advisory Services. In Order To Effectively Perform The Duties And Responsibilities Of This Position, Applicants Must Possess Knowledge Of Recruitment Trends And Job Market Conditions, Recruitment And Selection Methods And Techniques, Options And Strategies; Position Classification Methods And Techniques; And The Ability To Evaluate Education And Work Experience To Determine Applicant Qualifications And Suitability For Employment; Analyze Jobs And Develop Selection Criteria; Conduct Job Analyses To Determine Significant Duties, Required Knowledge And Skills, Etc.; And To Provide Advice On Staffing And Recruitment Matters, And Classification Practices And Concepts To Managers And Employees."
-    },
-    {
       "title": "Education Specialist (hunter & Conservation Resources) III",
       "job_number": "22-0636",
       "division": "DLNR",
@@ -32,17 +54,6 @@
       "closing": "Continuous",
       "link": "https://www.governmentjobs.com/careers/hawaii/jobs/3725829",
       "duties": "Responsible For Conducting And/or Coordinating The Various Hunter Education Program Activities. &nbsp;the Work Involves Coordinating And Conducting Hunter Education Certification Classes; Providing Support To Volunteer Instructors And Resolving Classroom Problems; Developing And Presenting Promotional And Informational Activities Concerning Hunter Education, Outdoor Recreation, Safety And Related Information As Assigned By A Higher Level Specialis; Preparing Informational And Educational Materials To Promote The Hunter Education Program; Participating In The Development Of Mandated Certification Courses; And Performing Other Education Related Program Activities As Assigned.&nbsp;"
-    },
-    {
-      "title": "General Professional IV (harbor, Inspections & Audits)",
-      "job_number": "25-0220",
-      "division": "DLNR",
-      "location": "Maalaea, Maui",
-      "yearly_salary": 68160.0,
-      "posted": "Wed, 01 Jul 2026",
-      "closing": "Continuous",
-      "link": "https://www.governmentjobs.com/careers/hawaii/jobs/4955550",
-      "duties": "The General Professional Iv&nbsp; Independently Performs&nbsp; Complex Professional Work &nbsp; Which Involves Considerable Research And Analysis Of A Variety Of Issues, Identification Of Various Options And Recommendation Of The Most Viable Solution. This Position Is Located In The Maui District Branch,&nbsp; Division Of Boating And Ocean Recreation, Department Of Land And Natural Resources. The Position Is Responsible For S Erving As The District's&nbsp; Facility Security Officer (fso) In Developing And&nbsp; Implementing The Facility Security Plans (fsp) For The Maui District . Duties And Responsibilities Of This Position Include Controlling All Security Measures At&nbsp; Facilities ; Conducting The Facility Security Assessment (fsa), Regular Security Inspections, And Annual Audits Of Facilities; Training Personnel Performing Facility Security Duties; Assessing And Reporting Occurrences That Threaten The Security Of Facilities; Maintaining Records And Preparing Reports As Required By The Title 33 Of The Code Of Federal Regulations (cfr); Coordinating With Security Services; Ensuring That Security Equipment Are Properly&nbsp; Operated , Tested, Calibrated, And&nbsp; Maintained ;&nbsp; Coordinating &nbsp;with Law Enforcement&nbsp; Personnel &nbsp;and Other Emergency Responders In The&nbsp; Event &nbsp;of Security Incidents; And Ensuring That All Facility&nbsp; Personnel &nbsp; Are &nbsp;briefed Of Changes In&nbsp; Security &nbsp;conditions At Facilities, Among Other Things; And Performing Other Related Duties As Assigned."
     },
     {
       "title": "Park Maintenance Supervisor II",
@@ -525,7 +536,7 @@
       "id": "226184",
       "location": "O\u02bbahu",
       "yearly_salary": null,
-      "closing": "07/13/2026",
+      "closing": "08/03/2026",
       "link": "https://opportunities.conservationcompass.org/opportunity/pcsu-program-associate-ii-id-226184-rcuh-2c54typ",
       "duties": "Serves As The Resource Who Prepares And Processes Office Of Aviation Services Documents, Travel Requests And Completions, Including Foreign Travel. Prepares Fiscal Documents For Processing And Follow-up Actions. Ensures All Procurement Documents Processed Are Compliant With The Office Of Management And Budget (omb) Circular And The Research Corporation Of The University Of Hawai\u2018i (rcuh) Policies And Procedures. Provides Support For Project To Include Preparing Documents For Processing, Filing, Photocopying, Creating Spreadsheets, And Assisting With Organization Of Office; And Other Related Duties. Initiates And Processes Adq91, 1681-3iaa, Oas 23 Forms With The Appropriate Purchase Requisitions. Reviews And Recommends Changes To The Information On Forms For Execution. Monitors Bidding Process, Non-routine Purchase Orders, Receiving Procedures, Sole Source, Etc. Prepares Justification On Cost Price Reasonableness And Sole Source For Purchase Orders. Reviews Propriety And Completeness Of All Procurement Documents. Processes Fiscal Documents And Follow-ups On Any Outstanding Actions. This Is A Progression Series Job In Which The Employee Will Be Expected To Perform With Increasing Independence On Progressively Responsible Duties. Quantity And Quality Of Work Is Expected To Increase As Levels Increase. Progression From One (1) Level To The Next Is Not Dependent On Time-in-grade, Rather Upon Employee\u2019s Demonstrated Abilities, Competence, And Operational Needs. Through Experience, Demonstrated Competence, And Operational Needs, May Be Hired At The Appropriate Level."
     },
@@ -714,7 +725,7 @@
       "id": "226301",
       "location": "Maui",
       "yearly_salary": 60984.0,
-      "closing": "07/10/2026",
+      "closing": "07/24/2026",
       "link": "https://opportunities.conservationcompass.org/opportunity/pcsu-forestry-field-project-supervisor-id-226301-rcuh-w2jc38z",
       "duties": "Plans, Coordinates, Implements, And Manages The Pcsu Olowalu Habitat Resilience Project. Directs And Manages Field Crew With Minimal Supervision, Performing Various Resource Management And Monitoring Activities. Manages Project Budget Expenditures And Accounting. These Include, But Are Not Limited To, Collection And Analysis Of Technical Field Data Using Standardized Methods To Collect Information About Distribution Of Native And Alien Plants And Animals Within And Around Designated Management Units, Controlling Alien Plants With Chemical And Mechanical Means, Control Of Feral Animals (e.g., Trapping), Maintenance And Construction Of Fences, Seed Collection And Propagation, Outplanting, Erosion Control And Runoff Mitigation, Fuels Mitigation, Driving Project Vehicles To Work Sites, And Other Duties As Assigned. Orders And Maintains Project Equipment Within Program Budget And Writes Quarterly Updates, Annual Reports And Work Plans. Supervises Field Project Staff. Oversees Volunteers. Coordinates, Facilitates, And Communicates With Agency Partners And Subject Matter Expertise To Implement Recommended Conservation Measures. Coordinates Projects In Propagating, Outplanting, And Monitoring Native Plants. Ensures That Field Operations Follow And Adhere To Appropriate Safety And Operation Policies/guidelines. Oversees Responsible Wildlife Trapping In Rugged Field Environments. Records Detailed Field Data And Spatial Information And Inputs Data Into Global Positioning System (gps) And Computers For Analysis."
     },
@@ -723,7 +734,7 @@
       "id": "226302",
       "location": "Maui",
       "yearly_salary": null,
-      "closing": "07/10/2026",
+      "closing": "07/24/2026",
       "link": "https://opportunities.conservationcompass.org/opportunity/pcsu-forestry-rangeland-planner-id-226302-rcuh-jutc3cg",
       "duties": "Plans, Coordinates, Implements, And Assists With Rangeland Management, Wildfire Mitigation, And Watershed Protection Components Of The Pcsu Maui Nui Fire Management Project. Assists With Directing And Managing Field Crew With Minimal Supervision, Performing Various Resource Management And Monitoring Activities. Duties Include, But Are Not Limited To, Collection And Analysis Of Technical Field Data Using Standardized Methods To Assess Vegetation Consumption, Fuel Loading, Soil Stability, And Distribution Of Native And Non-native Plant Species Within And Around Designated Management Units. Implements Rangeland And Fuels Management Actions, Including Invasive Plant Control Using Chemical And Mechanical Methods, Grazing Management Support, Erosion Control And Runoff Mitigation, And Other Land Treatment Activities. Oversees Field Staff And Oversees Volunteers. Coordinates, Facilitates, And Communicates With Dofaw Staff, Partner Agencies, Landowners, And Subject Matter Experts To Implement Recommended Land Management And Wildfire Mitigation Strategies. Ensures That Field Operations Follow And Adhere To Appropriate Safety And Operation Policies/guidelines. Records Detailed Field Data And Spatial Information And Inputs Data Into Global Positioning System (gps) And Computers For Analysis. Performs These Functions In A Safe Manner In Varying Environments And Weather Conditions."
     },
@@ -894,7 +905,7 @@
       "id": "226386",
       "location": "Kaua\u02bbi",
       "yearly_salary": 40800.0,
-      "closing": "07/10/2026",
+      "closing": "07/24/2026",
       "link": "https://opportunities.conservationcompass.org/opportunity/invasive-species-field-associate-i-id-226386-rcuh-pof0ip2",
       "duties": "Works In The Field, As Directed, To Eradicate Or Control Invasive Alien Plant And Animal Species, Plant Pathogens And Disease Vectors As Identified By The Project Manager And Committee. Fieldwork Involves Reconnaissance, Surveys, And Mechanical/chemical Removal For Invasive Alien Species In Natural, Urban, And Suburban Areas. Fieldwork Includes Off Trail Areas Where Exposure To Extreme Hot And Cold Temperatures, Heavy Rainfall, Mosquitoes, And Difficult Terrain Is Common. Implements Protocol To Prevent Seed Dispersal, Follows Decontamination Protocols, And Conducts All Operations According To Accepted Safety Standards And Established Protocols. Fieldwork Requires The Ability To Drive Project Vehicles Both On And Off Road, Work In And Around Helicopters, And Handle Pesticides. Keeps Accurate And Detailed Records Of Treatment And Control Work. Operates A Global Positioning System (gps) And Downloads Gps Units. Inputs And Updates Data And Produces Maps And Other Materials To Guide Daily Field Activities. Assists With Maintenance Of Equipment/field Gear, Vehicles, And Project Base Yard, Including Proper Storage Of Herbicides. Assists With Public Relations Activities And Events And Attains Favorable Public Relations With Property Owners And Other Members Of The Public. Contributes To Creating And Preserving A Positive Work Environment And Serves As A Valued Member Of The Field Team. Position Requires A Flexible Work Schedule Including Early Morning And Late Night Hours And Occasional Weekends. Progression From An Invasive Species Field Associate I To Invasive Species Field Associate II May Be Possible Upon Demonstrated Ability To Meet Established Performance Factors And Project Specific Competencies, Including Satisfactory Completion Of All Required Trainings."
     },
@@ -978,7 +989,16 @@
       "closing": "07/23/2026",
       "link": "https://opportunities.conservationcompass.org/opportunity/kmwp-community-outreach-education-associate-i-id-226415-rcuh-armkyt0",
       "duties": "Assists With Public Education And Outreach Efforts, Working Closely With Kmwp Outreach Specialist And Other Project Staff, To Raise Public Awareness Of Watershed Threats And Generate Support For Kmwp\u2019s Community Control Efforts. Encourages Favorable Public Relations And Support Of Kmwp\u2019s Natural Resource Objectives. Coordinates And Leads Volunteer Events And Workshops Related To Albizia Threat Mitigation And Control In The Field. Communicates And Collaborates With Kmwp Partners, Media, Community Organizations, Volunteers, Civic Leaders, And Local Cultural Groups In Joint Outreach Efforts. Responds To Requests Or Questions Related To Albizia Control And Treatment From The General Public. Assists In Developing Content And Curriculum For Classroom Presentations. Conducts School And Private Group Outreach Talks, And Assists With The Development Of Cultural And Biological Talking Points For Public Events, As Well As Displays And Outreach Materials. Drives To Project Sites And Public Events. Assists With Securing And Maintaining Access To Public And Private Property. Assists In The Preparation Of Reports, And Prepares Publications, Press Releases And Other Public Outreach Documents Under The Guidance Of The Outreach Specialist. Performs Other Duties As Assigned By Kmwp Outreach Specialist, Including Office Management Support As Requested. Obtains Information On Plants And Land Access And Ensures Information Is Filed In The Project Records/database. Must Be Willing To Routinely Work Irregular Hours, Evenings, And Weekends. This Is A Progression Series Job In Which The Employee Will Be Expected To Perform With Increasing Independence On Progressively Responsible Duties. Quantity And Quality Of Work Is Expected To Increase As Levels Increase. Progression From One (1) Level To The Next Is Not Dependent On Time-in-grade, Rather Upon Employee\u2019s Demonstrated Abilities, Competence, And Operational Needs. Through Experience, Demonstrated Competence, And Operational Needs, May Be Hired At The Appropriate Level."
+    },
+    {
+      "title": "Pcsu Kohala Wp Field Project Technician",
+      "id": "226419",
+      "location": "Hawai\u02bbi Island",
+      "yearly_salary": 47124.0,
+      "closing": "07/24/2026",
+      "link": "https://opportunities.conservationcompass.org/opportunity/pcsu-kohala-wp-field-project-technician-id-226419-rcuh-7j73ukp",
+      "duties": "Builds, Inspects, And Maintains Fences. Monitors And Controls Alien Plants And Feral Ungulates At The Kohala Watershed Management Area. Establishes And Monitors Transects To Evaluate Forest Recovery And Plant Distribution. Collects And Analyzes Technical Field Data. In The Field, Regularly Coordinates The Activities Of Volunteers, Interns, Or Temporary Hires In Alien Plant Control, Feral Animal Control, And Other Resource Management Work. Drives Project Vehicles To Work Sites And Works In And Around Helicopters. Orders Supplies And Materials For Field Projects."
     }
   ],
-  "generated_at_utc": "2026-07-10T19:23:51.466480+00:00"
+  "generated_at_utc": "2026-07-11T18:56:52.962145+00:00"
 }
